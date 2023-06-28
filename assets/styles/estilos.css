@@ -1,0 +1,20 @@
+.banner{
+    background-image: url('../img/banner.jpg');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
+.btn{
+    background-color: #27A4F2;
+    color: aliceblue;
+}
+
+.banner2{
+    background-image: url('../img/banner2.jpeg');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
